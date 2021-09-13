@@ -45,11 +45,7 @@
 ### Useful links:
 [Exceptions](https://www.cplusplus.com/doc/tutorial/exceptions/)  
 
-## :moyai: CPP_Module_06
-### Task lists:
-- [x] ex00
-- [x] ex01
-- [x] ex02
+## CPP_Module_06
 
 ### Useful links:
 [Casts](https://ravesli.com/urok-56-yavnoe-preobrazovanie-tipov-dannyh-operatory-casts/)  
